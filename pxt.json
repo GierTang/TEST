@@ -1,0 +1,15 @@
+{
+    "name": "lcd1602b",
+    "version": "0.0.2",
+    "description": "這是專為micro:bit提供的LCD1602B積木",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+        "_locales/zh/lcd1602b-strings.json"
+    ],
+    "public": true
+}

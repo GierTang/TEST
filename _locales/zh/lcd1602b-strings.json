@@ -1,0 +1,14 @@
+{
+    "lcd1602b|block": "LCD1602B",
+    "lcd1602b.setAddress|block": "設定LCD1602B I2C位址 %myAddr",
+    "lcd1602b.setAddress2|block": "設定LCD1602B I2C位址 %myAddr",
+    "lcd1602b.putString|block": "LCD 顯示字串 %s|在座標 x:%x|y:%y",
+    "lcd1602b.putNumber|block": "LCD 顯示數字 %n|在座標 x:%x|y:%y",
+    "lcd1602b.on_off.on|block":"開",
+    "lcd1602b.on_off.off|block":"關",
+    "lcd1602b.visibled.visible|block":"顯示",
+    "lcd1602b.visibled.invisible|block":"隱藏",
+    "lcd1602b.set_LCD_Show|block": "設定字串 %show",
+    "lcd1602b.set_backlight|block": "設定LCD背光 %on",
+    "lcd1602b.clear|block": "LCD畫面清除"
+}
