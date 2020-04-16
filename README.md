@@ -1,6 +1,10 @@
 # LCD1602B
 
-這是專為micro:bit提供的LCD1602B積木
+這只是練習測試 功能均不見得正常 來賓請勿使用 以免造成自身困擾
+若需使用 請使用劉正吉先生所開發的工具
+https://github.com/lioujj/pxt-lcd1602
+
+以下為劉正吉先生的正確資訊
 
 ## License
 
